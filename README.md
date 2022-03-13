@@ -1,0 +1,2 @@
+# parcialProgra
+Parcial de programacion
